@@ -38,4 +38,4 @@ With support from the [National Science Foundation](https://www.nsf.gov/awardsea
 
 ---
 
- [Felipe Zapata](http://zapatalab.org) (UCLA) & [Marymegan Daly](https://eeob.osu.edu/people/daly.66) (OSU) are the PIs of this grant.
+[Felipe Zapata](http://zapatalab.org) (UCLA) & [Marymegan Daly](https://eeob.osu.edu/people/daly.66) (OSU) are the PIs of this grant.
