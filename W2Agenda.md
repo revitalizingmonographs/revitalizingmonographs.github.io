@@ -35,9 +35,9 @@ Coffee will be provided during coffee breaks. Instructions for places to get lun
 
 - 1:30 - 2:30 PM **Refine the Monographic Workflow.** Where do the tools described fit into the workflows? Are there steps/inputs/issues missing from this scheme?
 
-**Coffee Break**
+**Botanical Garden Tour**
 
-- 2:45 - 4:45 PM **Explode the Monographic Workflow.** How can we rethink some aspect of the workflow so that it works better or more seamlessly/effectively supports the end goal
+- 3:00 PM - 4:45 PM **Explode the Monographic Workflow.** How can we rethink some aspect of the workflow so that it works better or more seamlessly/effectively supports the end goal
 
 - 5:00 - 6:00 PM **Discuss the Workflow.** Progress report: What was fixed in the workflow? how? were some solutions discarded? why? What components of the workflow were inviolate and not discussed, in terms of potential improvements? What remains to be done for each component of the workflow?
 
