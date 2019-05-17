@@ -15,6 +15,10 @@ Coffee will be provided during coffee breaks. Instructions for places to get lun
 
 [![Map of hotels (red) and LaKretz Pavilion (blue)]](./Map_locations.png)
 
+## Participants
+
+[List of participants](./participants.md)
+
 ### Agenda
 
 **Friday May 17**
