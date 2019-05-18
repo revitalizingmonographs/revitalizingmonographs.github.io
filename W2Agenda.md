@@ -55,12 +55,12 @@ Coffee will be provided during coffee breaks. Instructions for places to get lun
 
 **Coffee Break**
 
-- 11:00 - 12:30 AM **The workflow to publication.** How do our thoughts on publication pathways and demands necessitate changes to (or benefit from) the pipelines and workflows we discussed?
+- 11:00 - 12:30 AM **Revisiting tools and building out** Where are the bottlenecks in the workflow? what are the big challenges and how the tools can help? what tools are we missing? how do we disrupt the workflow?
 
 **Lunch**
 
-- 1:30 - 2:30 PM **Scaling up and building out.** How do we get the tools into the hands of the people who can use them?  How do we change modes and mores for publication? What roadblocks are there for dissemination (for developers) or adoption (for users)? How might those challenges be surmounted?
+- 1:30 - 2:30 PM **Wrap up.** 
 
 **Coffee Break**
 
-- 4:00 - 5:00 PM **Wrap up and next steps.**
+- 3:00 - 4:00 PM **Next steps.** Next workshop, ideas, suggestions
