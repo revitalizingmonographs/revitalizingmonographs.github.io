@@ -59,8 +59,8 @@ Coffee will be provided during coffee breaks. Instructions for places to get lun
 
 **Lunch**
 
-- 1:30 - 2:30 PM **Wrap up.** 
+- 2:00 - 3:00 PM **Wrap up.** 
 
 **Coffee Break**
 
-- 3:00 - 4:00 PM **Next steps.** Next workshop, ideas, suggestions
+- 3:30 - 4:00 PM **Next steps.** Next workshop, ideas, suggestions
