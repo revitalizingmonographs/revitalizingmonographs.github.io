@@ -38,4 +38,11 @@ With support from the [National Science Foundation](https://www.nsf.gov/awardsea
 
 ---
 
+## Useful resources for monographic research
+
+Here is a [list](./resources.md) of resources we are compiling for monographic research 
+
+
+---
+
 [Felipe Zapata](http://zapatalab.org) (UCLA) & [Marymegan Daly](https://eeob.osu.edu/people/daly.66) (OSU) are the PIs of this grant.
