@@ -30,7 +30,7 @@ We aim to synthesize these conversations into a series of perspectives and recom
 * Session 3: <strong>Mar 3rd at 1pm - 2:30pm ET</strong>
 * Agenda: Discussing and developing thought pieces for...
 
-[Click here to register](https://zoom.us/meeting/register/tJIoc-ygrj8tG9AuWUyHVMFckXREe2XeL6m8)
+### [Click here to register »](https://zoom.us/meeting/register/tJIoc-ygrj8tG9AuWUyHVMFckXREe2XeL6m8)
 
 ---
 
