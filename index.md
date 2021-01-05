@@ -20,21 +20,15 @@ Monographs are the most important and long-lasting output of systematics researc
 * Agenda: This is our [agenda](./W2Agenda.html) for the meeting.
 * Summary: After a successful meeting, we summarized our major findings here.
 
-### Workshop 3 (upcoming): Ideas Lab
+## Workshop 3 (upcoming): Ideas Lab
 
 We aim to synthesize these conversations into a series of perspectives and recommendations for the community, aiming to identify key needs, challenges, and opportunities of a more modern monography. To support this work, we are convening a 3-session virtual meeting to build collaborations, brainstorm and develop concise perspective pieces on the challenges, opportunities, and needs for modern monography. Participation is open to all members of the community, regardless of participation in earlier workshop sessions.  These perspectives will be published as a special collection of the Bulletin of the Society of Systematic Biologists (the new online journal of the Society).  
 
-* Location: Ohio State University, Columbus OH
-* Dates: TBD
-* Agenda: This is our agenda for the meeting.
-* Summary: After a successful meeting, we summarized our major findings here.
-
-### Workshop 4: Looking into the future
-
-* Location: TBD
-* Dates: TBD
-* Agenda: This is our agenda for the meeting.
-* Summary: After a successful meeting, we summarized our major findings here.
+* Location: Virtual (3 sessions)
+* Session 1 (open to all): Feb 2nd at 1pm - 2:30pm ET
+* Session 2: Feb 23rd at 1pm - 4:30pm ET
+* Session 3: Mar 3rd at 1pm - 2:30pm ET
+* Agenda: Discussing and developing thought pieces for...
 
 ---
 
