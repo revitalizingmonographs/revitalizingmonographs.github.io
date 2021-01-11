@@ -41,4 +41,4 @@ Here is a [list](./resources.md) of resources we are compiling for monographic r
 
 ---
 
-[Felipe Zapata](http://zapatalab.org) (UCLA) & [Marymegan Daly](https://eeob.osu.edu/people/daly.66) (OSU) are the PIs of this grant.
+[Felipe Zapata](https://www.zapatalab.org) (UCLA) & [Marymegan Daly](https://eeob.osu.edu/people/daly.66) (OSU) are the PIs of this grant.
