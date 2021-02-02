@@ -13,7 +13,7 @@ The workshop will be held at the [La Kretz Garden Pavilion](https://www.botgard.
 
 Coffee will be provided during coffee breaks. Instructions for places to get lunch will be provided the day of the workshop.
 
-[![Map of hotels (red) and LaKretz Pavilion (blue)]](./Map_locations.png)
+[[Map of hotels (red) and LaKretz Pavilion (blue)]](./Map_locations.png)
 
 ### Participants
 
