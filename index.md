@@ -38,7 +38,7 @@ This is the presentation introducing our workshop: [Presentation](./Workshop3.pd
 
 ## Useful resources for monographic research
 
-Here is a [list](./resources.md) of resources we are compiling for monographic research 
+Here is a [list](./resources.md) of resources we are compiling for monographic research. Here are some useful [papers](.papers)
 
 
 ---
