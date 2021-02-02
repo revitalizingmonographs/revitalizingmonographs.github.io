@@ -24,6 +24,8 @@ Monographs are the most important and long-lasting output of systematics researc
 
 We aim to synthesize these conversations into a series of perspectives and recommendations for the community, aiming to identify key needs, challenges, and opportunities of a more modern monography. To support this work, we are convening a 3-session virtual meeting to build collaborations, brainstorm and develop concise perspective pieces on the challenges, opportunities, and needs for modern monography. Participation is open to all members of the community, regardless of participation in earlier workshop sessions.  These perspectives will be published as a special collection of the Bulletin of the Society of Systematic Biologists (the new online journal of the Society).  
 
+This is the presentation introducing our workshop: [Presentation](./Workshop3.pdf)
+
 * Location: 3 Virtual Sessions
 * Session 1: <strong>Feb 2nd at 1pm - 2:30pm ET</strong>
 * Session 2: <strong>Feb 23rd at 1pm - 4:30pm ET</strong>
