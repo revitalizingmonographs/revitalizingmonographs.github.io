@@ -30,4 +30,4 @@
 
 ### Useful Literature
 
-[Sytematics Agenda 2000](../papers/SystematicsAgenda1990.pdf), [Sytematics Agenda 2010](../papers/SystematicsAgenda2012.pdf), [computerized monographs, example 1](../papers/Caryophyllales_ModernMonograph.pdf), [computerized monographs, example 2](../papers/Emonograph_ExamplePlant.pdf), [Taxonomy and technology 2021](../papers/Taxonmy_Technology.pdf), [Monographs in the Antrhopocene](../papers/MonographsAnthropocene.pdf)
+[Sytematics Agenda 2000](../papers/SystematicsAgenda1990.pdf), [Sytematics Agenda 2010](../papers/SystematicsAgenda2012.pdf), [computerized monographs, example 1](../papers/Caryophyllales_ModernMonograph.pdf), [computerized monographs, example 2](../papers/Emonograph_ExamplePlant.pdf), [Taxonomy and technology 2021](../papers/Taxonmy_Technology.pdf), [Monographs in the Anthropocene](../papers/MonographsAnthropocene.pdf)
